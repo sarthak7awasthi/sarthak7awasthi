@@ -1,8 +1,8 @@
-# 👋 Welcome to Sarthak Awasthi's GitHub Profile!
-
+# 👋 Hi there!
 
 ## 🚀 About Me
-Hi there! I'm **Sarthak Awasthi**, your friendly neighborhood Software Engineer.
+
+ I'm **Sarthak Awasthi**, your friendly neighborhood Software Engineer.
 
 
 
